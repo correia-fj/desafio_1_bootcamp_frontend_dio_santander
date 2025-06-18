@@ -27,3 +27,8 @@ São elas:
     <font> (obsoleta, mas aceita no desafio)
     <del>
     <abbr>
+
+## Resultado do HTML
+
+ ![image](https://github.com/user-attachments/assets/48439a33-5be4-431b-a6e3-443b4859d599)
+
